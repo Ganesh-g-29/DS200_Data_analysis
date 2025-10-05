@@ -31,11 +31,7 @@ The analysis performed includes plotting:
 
 Together, these findings present a detailed look into the rainfall dynamics across Madhya Pradesh over the study period, evidencing inter-annual and spatial variability important for agricultural planning and water management.
 
-## Usage
-Run the `ds200_data_analysis.ipynb` Jupyter notebook or `rainfall_analysis.py` script after uploading the dataset CSV to reproduce the analysis and visualizations.
-
 ## Citation
 Rainfall data retrieved from [data.gov.in - Madhya Pradesh Rainfall Dataset](https://data.gov.in/).
 
----
-*This repository contains all source code, plots, and documentation for the rainfall data analysis project.*
+
